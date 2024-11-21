@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to bottom right, #f0f4c3, #b3e5fc);
+  background-image: linear-gradient(to bottom right, #ef8668, #b77dd6);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -43,7 +43,7 @@ input[type="file"]:hover {
 .button {
   font-size: 24px;
   font-weight: bold;
-  background-color: #af7f4c;
+  background-color: #4259ac;
   color: #fff;
   border: none;
   padding: 16px 32px;
@@ -53,7 +53,7 @@ input[type="file"]:hover {
 }
 
 .button:hover {
-  background-color: #3e8e41;
+  background-color: #8dd25e;
 }
 
 #result {
